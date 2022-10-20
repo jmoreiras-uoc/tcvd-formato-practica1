@@ -1,8 +1,8 @@
 ***
 
-== _Este repositorio muestra un ejemplo de la estructura que debe seguirse para la entrega de la
+_Este repositorio muestra un ejemplo de la estructura que debe seguirse para la entrega de la
 **Práctica 1** de la asignatura **Tipología y Ciclo de Vida de los Datos (M2.851)** del
-Máster universitario de Ciencia de Datos (UOC)._ ==
+Máster universitario de Ciencia de Datos (UOC)._
 
 ***
 
