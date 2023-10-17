@@ -4,8 +4,11 @@ _Este repositorio muestra un ejemplo de la estructura que debe seguirse para la 
 **Práctica 1** de la asignatura **Tipología y Ciclo de Vida de los Datos (M2.851)** del
 Máster universitario de Ciencia de Datos (UOC)._
 
-_**⚠️ El repositorio de entrega de la práctica debe ser un repositorio privado ⚠️**_
+**IMPORTANTE:**
 
+⚠️ El repositorio de entrega de la práctica debe ser un **repositorio privado**.
+
+⚠️ A modo de ejemplo, se ofrece un documento de la estructura que debe seguir la memoria de la práctica: [`memoria.pdf`](memoria.pdf). Este documento **debe subirse al Aula Canvas y no al repositorio GitHub**.
 ***
 
 # Práctica 1 - Tipología y Ciclo de Vida de los Datos
@@ -25,9 +28,8 @@ El dataset ha sido publicado en Zenodo con DOI [10.5281/zenodo.0000000](https://
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.0000000.svg)](https://doi.org/10.5281/zenodo.0000000)
 
 ## Descripción del repositorio
-Breve desripción de la práctica/sitio web elegido.
+Breve desripción del repositorio.
 
-  * [`memoria.pdf`](memoria.pdf): Ejemplo de documento de respuestas. Este documento debe subirse en el Aula Canvas (no en el repositorio).
   * `/source/scraper.py`: Archivo principal.
   * `/source/scraper_aux.py`: Descripción archivo.
   * (...)
