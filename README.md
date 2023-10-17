@@ -27,7 +27,7 @@ El dataset ha sido publicado en Zenodo con DOI [10.5281/zenodo.0000000](https://
 ## Descripción del repositorio
 Breve desripción de la práctica/sitio web elegido.
 
-  * `memoria.pdf`: Ejemplo de documento de respuestas. Este documento debe subirse en el Aula Canvas (no en el repositorio).
+  * [`memoria.pdf`](memoria.pdf): Ejemplo de documento de respuestas. Este documento debe subirse en el Aula Canvas (no en el repositorio).
   * `/source/scraper.py`: Archivo principal.
   * `/source/scraper_aux.py`: Descripción archivo.
   * (...)
